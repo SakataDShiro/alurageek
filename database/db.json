@@ -1,0 +1,53 @@
+{
+  "productos": [
+    {
+      "id": "5f65",
+      "nombre": "Xiaomi Pocophone Poco M5s",
+      "precio": "2,443",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_718939-MLU69664239605_052023-F.webp",
+      "url": "https://www.mercadolibre.com.mx/xiaomi-pocophone-poco-m5s-dual-sim-256-gb-gris-8-gb-ram/p/MLM23428712?pdp_filters=deal%3AMLM779363-1#polycard_client=homes-korribanSearchTodayPromotions&searchVariation=MLM23428712&position=13&search_layout=grid&type=product&tracking_id=4acf917d-12e5-44b6-b0f9-fc3c525fe1ea&c_id=/home/today-promotions-recommendations/element&c_uid=1441a330-225d-404f-99ac-e3b57eb72ae1"
+    },
+    {
+      "id": "c6f4",
+      "nombre": "Echo Dot (5.ª generación)",
+      "precio": "999",
+      "imagen": "https://m.media-amazon.com/images/I/319ZaoJcE6L._AC_.jpg",
+      "url": "https://www.amazon.com.mx/Nuevo-generaci%C3%B3n-modelo-Bocina-inteligente/dp/B09B8V1LZ3/ref=pd_ci_mcx_mh_mcx_views_0?pd_rd_w=XmnCA&content-id=amzn1.sym.c5bcdcad-6399-407f-8175-cdb37086cf51%3Aamzn1.symc.40e6a10e-cbc4-4fa5-81e3-4435ff64d03b&pf_rd_p=c5bcdcad-6399-407f-8175-cdb37086cf51&pf_rd_r=XB6ST58ZN4NDNVMET18Z&pd_rd_wg=Vqhr3&pd_rd_r=4bb96a2f-5fa7-4be9-840d-7a466f93f25e&pd_rd_i=B09B8V1LZ3"
+    },
+    {
+      "id": "f296",
+      "nombre": "Game & Watch TLOZ",
+      "precio": "589",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_950750-MLA48681039499_122021-F.webp",
+      "url": "https://www.mercadolibre.com.mx/nintendo-game-watch-the-legend-of-zelda-color-dorado-y-verde-2021/p/MLM18617464#reco_item_pos=16&reco_backend=univb-pdp-buybox&reco_backend_type=low_level&reco_client=pdp-v2p&reco_id=cfb42ecd-0593-4bb3-b234-2110e5efd31c&reco_backend_model=univb"
+    },
+    {
+      "id": "9e2b",
+      "nombre": "GameSir X3 Tipo-C",
+      "precio": "2299",
+      "imagen": "https://m.media-amazon.com/images/I/61Lu4r9NV0L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.mx/GameSir-tel%C3%A9fono-ventilador-refrigerador-joystick/dp/B0B426XJ82/ref=sr_1_52?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1TDZJSKGE4Q6A&dib=eyJ2IjoiMSJ9.84wEfus7n4PFKKgG_xr2umRP3pN8inwRL8oc1dW01LwL04mRgQXfDSSjksgI6iNG20r-p6A06ZXyUPTpdWx8p8UojGzfLfQjYj9HwjMmTNfwDyMQYqENAJuXNm1loEGKr7tpGvK7NcUCc_aGGuw20WRWpAAVZ8BrnaeYPFDygp8bwJcpmYpSG5b05bZ6vwkTYgedD-PdpRhPFdBg87cJFZL4-gwnHufqfda1-coGRel7s6iSO9_utCxt1g3qu0y-ZSELRtkysZh8l17X7es-VGtPlgZLl1Avym7aN_g-aoI.8r87c_qmPUT4P1a0dVEEB8QfEii2JWyB4-ow7i12ywE&dib_tag=se&keywords=gamesir&qid=1718430546&sprefix=gamesir%2Caps%2C124&sr=8-52&ufe=app_do%3Aamzn1.fos.242f5c11-6cfd-40d6-91f6-be3d1974080c&th=1"
+    },
+    {
+      "id": "16d2",
+      "nombre": "TP-Link Tapo TC70",
+      "precio": "529",
+      "imagen": "https://m.media-amazon.com/images/I/41KuE9NipqL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.mx/TP-Link-TC70-Seguridad-Interior-Aplicaciones/dp/B09Y8LJ17S/ref=zg_bs_g_electronics_d_sccl_14/133-2255813-6391862?th=1"
+    },
+    {
+      "id": "5463",
+      "nombre": "ADATA Powerbank P20000QCD",
+      "precio": "494",
+      "imagen": "https://m.media-amazon.com/images/I/518mCLnOjoL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.mx/ADATA-Powerbank-Recargable-AP20000QCD-DGT-CBK-Tecnolog%C3%ADas/dp/B09HSW1K8Z/ref=zg_bs_g_electronics_d_sccl_17/133-2255813-6391862?psc=1"
+    },
+    {
+      "id": "9b75",
+      "nombre": "UGREEN Mouse Inalámbrico ",
+      "precio": "299",
+      "imagen": "https://m.media-amazon.com/images/I/61QMvIgQZyL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.mx/UGREEN-Inal%C3%A1mbrico-Ergon%C3%B3mico-Silencioso-Computadora/dp/B09SFPJS27/ref=zg_bs_g_electronics_d_sccl_24/133-2255813-6391862?th=1"
+    }
+  ]
+}

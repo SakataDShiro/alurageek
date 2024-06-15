@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encriptador</title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <p class="logo">AluraGeek</p>
+    </header>
+    <section class="contenedor">
+        <div class="productos">
+            <p class="texto1">Mis Productos</p>
+            <div class="lista">
+        </div>
+    </div>
+        <div class="agregar">
+            <p class="texto2">Agregar Producto</p>
+            <div class="formulario">
+                <form class="principal__formulario" data-formulario>
+                    <fieldset class="formulario_campo">
+                    <label class="campo_etiqueta" for="nombre"></label>
+                    <input name="nombre" id="nombre" class="campo_completo" type="text" maxlength="25" required placeholder="Nombre del Producto"/>
+                    <span class="mensaje-error"></span>
+                    </fieldset>
+        
+                    <fieldset class="formulario_campo">
+                    <label class="campo_etiqueta" for="precio"></label>
+                    <input name="precio" id="precio" class="campo_completo" type="text" required placeholder="Precio" />
+                    <span class="mensaje-error"></span>
+                    </fieldset>
+                    
+                    <fieldset class="formulario_campo">
+                    <label class="campo_etiqueta" for="imagen"></label>
+                    <input name="imagen" id="imagen" class="campo_completo" type="text" placeholder="Url de la Imagen" required/>
+                    <span class="mensaje-error"></span>
+                    </fieldset>
+
+                    <fieldset class="formulario_campo">
+                        <label class="campo_etiqueta" for="link"></label>
+                        <input name="url" id="url" class="campo_completo" type="text" placeholder="Url del Producto" required/>
+                        <span class="mensaje-error"></span>
+                        </fieldset>
+            </div>
+            <div class="botones">
+                <button id="enviar" class="campo_boton">Enviar</button>
+                <button id="limpiar" class="campo_boton">Limpiar</button>
+            </div>
+        </div>
+    </section>
+    <script src="./js/services/controllers/main.js" type="module"></script>
+</body>
+<footer>
+    <p class="logo">AluraGeek</p>
+    <p class="desarrollador">Desarrollado por Arturo Fuentes</p>
+</footer>
